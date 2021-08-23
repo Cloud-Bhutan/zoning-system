@@ -1,0 +1,1 @@
+{{ $zone->dzongkhag->name }}

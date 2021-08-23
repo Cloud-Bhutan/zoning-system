@@ -1,0 +1,1 @@
+(<a href="http://www.google.com/maps/place/{{$building->lat}},{{$building->lng}}" target="_blank">{{$building->lat}}, {{$building->lng}}</a>)

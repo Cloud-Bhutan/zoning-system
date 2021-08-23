@@ -1,0 +1,1 @@
+{{$building->subZone->zone->dzongkhag->name}}
